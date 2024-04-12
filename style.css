@@ -1,0 +1,40 @@
+body
+{
+    background-color: salmon;
+    text-align: center;
+}
+
+#header
+{
+    padding-top: 20px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:thistle;
+}
+
+input
+{
+    border-radius: 20px;
+    background-color: lavender;
+    height: 35px;
+    width: 300px;
+    border-color: plum;
+    border-width: 7px;
+}
+
+button
+{
+    width:120px;
+    background-color:lavender;
+    border-color: plum;
+    border-width: 5px;
+    height: 35px;
+    font-style: italic;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+canvas
+{
+    border-color: blueviolet;
+}
